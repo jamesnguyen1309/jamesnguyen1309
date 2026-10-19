@@ -17,6 +17,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jamesnguyen1309.jamesnguyen1309&left_color=%230D0D0D&right_color=%23FF5F1F&left_text=Profile%20views" alt="Profile views" />
   <a href="mailto:j@mesnguyen.com"><img src="https://img.shields.io/badge/Say%20hi-j%40mesnguyen.com-FF5F1F?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://blogja.mesnguyen.com"><img src="https://img.shields.io/badge/Blog-blogja.mesnguyen.com-FF5F1F?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://ko-fi.com/jamesnguyen1309"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-FF5F1F?style=flat-square&logo=kofi&logoColor=white" alt="Buy me a coffee on Ko-fi" /></a>
 </p>
 
 <p align="center">
@@ -170,6 +171,14 @@ I don't really do social media — but my inbox is always open. Want to talk sys
   </a>
   <a href="https://blogja.mesnguyen.com">
     <img src="https://img.shields.io/badge/Blog-blogja.mesnguyen.com-0D0D0D?style=for-the-badge&logo=rss&logoColor=FF5F1F" alt="Blog" />
+  </a>
+</p>
+
+If something here helped you, you can buy me a coffee ☕ It keeps the blog and the side projects going.
+
+<p align="center">
+  <a href="https://ko-fi.com/jamesnguyen1309">
+    <img src="https://img.shields.io/badge/Support%20me%20on%20Ko--fi-0D0D0D?style=for-the-badge&logo=kofi&logoColor=FF5F1F" alt="Support me on Ko-fi" />
   </a>
 </p>
 
