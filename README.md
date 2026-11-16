@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="120" alt="James Nguyen logo" />
+  <img src="assets/logo.svg" width="120" alt="James Nguyen logo" />
 </p>
 
 <!-- Header -->
@@ -147,8 +147,8 @@ const james = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jamesnguyen1309&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF5F1F&icon_color=E63946&text_color=FFFFFF&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnguyen1309&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF5F1F&text_color=FFFFFF" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/jamesnguyen1309/jamesnguyen1309/output/stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/jamesnguyen1309/jamesnguyen1309/output/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
