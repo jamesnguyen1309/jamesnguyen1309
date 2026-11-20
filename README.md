@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.gif" />
-    <img src="assets/logo-light.gif" width="150" alt="James Nguyen logo" />
-  </picture>
+  <img src="assets/logo-animated.svg" width="150" alt="James Nguyen logo" />
 </p>
 
 <!-- Header -->
