@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="140" viewBox="0 0 300 140" role="img" aria-label="Most used languages">
+  <title>Most used languages</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FF5F1F; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
+    .lang { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #FFFFFF; }
+  </style>
+  <rect width="300" height="140" rx="4.5" fill="#0D0D0D"/>
+  <text x="25" y="35" class="title">Most used languages</text>
+  <mask id="bar"><rect width="250" height="8" rx="5" fill="#fff"/></mask>
+  <g transform="translate(25 55)"><rect width="250" height="8" rx="5" fill="#333333"/><g mask="url(#bar)"><rect x="0.00" y="0" width="169.87" height="8" fill="#3178c6"/><rect x="169.87" y="0" width="66.15" height="8" fill="#000080"/><rect x="236.01" y="0" width="11.45" height="8" fill="#f1e05a"/><rect x="247.47" y="0" width="2.53" height="8" fill="#89e051"/></g></g>
+  <g transform="translate(25 80)">
+    <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+    <text x="15" y="10" class="lang">TypeScript 67.95%</text>
+  </g>
+  <g transform="translate(160 80)">
+    <circle cx="5" cy="6" r="5" fill="#000080"/>
+    <text x="15" y="10" class="lang">Lua 26.46%</text>
+  </g>
+  <g transform="translate(25 105)">
+    <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+    <text x="15" y="10" class="lang">JavaScript 4.58%</text>
+  </g>
+  <g transform="translate(160 105)">
+    <circle cx="5" cy="6" r="5" fill="#89e051"/>
+    <text x="15" y="10" class="lang">Shell 1.01%</text>
+  </g>
+</svg>
